@@ -1,0 +1,15 @@
+button {
+  width: 280px;
+  padding: 15px;
+  margin-bottom: 5px;
+  border-radius: 1px;
+  border: none;
+  background-color: #3745b5; // Couleur pastel
+  color: white;
+  cursor: pointer;
+  font-family: inherit;
+
+  &:hover {
+    background-color: #283593; // Couleur pastel plus foncée
+  }
+}
