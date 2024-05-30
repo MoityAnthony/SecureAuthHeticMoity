@@ -1,6 +1,6 @@
 import sqlite3 from 'sqlite3';
 
-const db = new sqlite3.Database('./database.db');
+const db = new sqlite3.Database('/data/db.sqlite');
 
 export const addUser = (username, password, secret, callback) => {
   const query = "INSERT INTO users (username, password, secret) VALUES (?, ?, ?)";
