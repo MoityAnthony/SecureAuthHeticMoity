@@ -3,5 +3,4 @@ backend/node_modules
 backend/database.db
 
 frontend/node_modules
-
-database/db.sqlite
+/database/db.sqlite
