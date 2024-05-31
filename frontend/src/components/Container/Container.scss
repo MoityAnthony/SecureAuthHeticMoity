@@ -51,24 +51,24 @@ body {
 .top {
   &:before {
     transform: rotate(45deg);
-    background: #ff9999; // Changer pour une couleur pastel
+    background: #ff9999;
   }
 
   &:after {
     transform: rotate(135deg);
-    background: #ffcc99; // Changer pour une couleur pastel
+    background: #ffcc99;
   }
 }
 
 .bottom {
   &:before {
     transform: rotate(-45deg);
-    background: #99ccff; // Changer pour une couleur pastel
+    background: #99ccff;
   }
 
   &:after {
     transform: rotate(-135deg);
-    background: #9999ff; // Changer pour une couleur pastel
+    background: #9999ff;
   }
 }
 
