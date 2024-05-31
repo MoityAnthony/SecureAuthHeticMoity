@@ -12,10 +12,10 @@ And the a token access for the backend :
 
 Go to the folder backend and frontend to start the project :
 
-``` cd backend ```
-``` npm i ```
-``` npm start ```
+``` cd backend ```<br/>;
+``` npm i ```<br/>;
+``` npm start ```<br/>;
 
-``` cd frontend ```
-``` npm i ```
+``` cd frontend ```<br/>;
+``` npm i ```<br/>;
 ``` npm start ```
