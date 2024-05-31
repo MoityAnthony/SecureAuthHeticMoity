@@ -1,5 +1,7 @@
-﻿# SecureAuthGoogleAuthenticatorHetic
+﻿# SecureAuthHeticMoity
 
+Secure auth with Google Authenticator, ReactJS, ExpressJS, SQLITE.
+ 
 # To the branch main :
 
 To start the project :
