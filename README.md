@@ -1,6 +1,6 @@
 ﻿# SecureAuthGoogleAuthenticatorHetic
 
-To the branch main :
+# To the branch main :
 
 To start the project :
 
@@ -25,7 +25,7 @@ Go to the folder backend and frontend to start the project :
 
 Now you can go on [http://localhost:3000](http://localhost:3000/) to register and login with Google Authenticator.
 
-To the branch dev with docker :
+# To the branch dev with Docker :
 
 checkout to the branch dev :
 
