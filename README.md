@@ -1,6 +1,6 @@
 ﻿# SecureAuthHeticMoity
 
-Secure auth with Google Authenticator, ReactJS, ExpressJS, SQLITE.
+Secure auth with 2fa code made with Google Authenticator, ReactJS, ExpressJS, SQLITE.
  
 # To the branch main :
 
