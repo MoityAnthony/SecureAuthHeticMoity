@@ -27,6 +27,8 @@ Now you can go on [http://localhost:3000](http://localhost:3000/) to register an
 
 # To the branch dev with Docker :
 
+Note: if you have start the project with the branch main and you want to go to the branch dev to use Docker, ```git stash``` your changes before ``` git checkout dev ```.
+
 checkout to the branch dev :
 
 ``` git checkout dev ```
