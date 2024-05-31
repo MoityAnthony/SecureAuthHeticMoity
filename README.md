@@ -2,7 +2,7 @@
 
 To start the project :
 
-Create a in the backend folder .env .
+Create .env a in the backend folder.
 
 With the PORT of the bakend : 
 ```PORT=5000```
