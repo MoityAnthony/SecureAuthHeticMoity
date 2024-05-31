@@ -21,4 +21,4 @@ Go to the folder backend and frontend to start the project :
 ``` npm i ```<br/>
 ``` npm start ```
 
-Now you can go on http://localhost:3000 to register and login with Google Authenticator.
+Now you can go on [http://localhost:3000](http://localhost:3000/) to register and login with Google Authenticator.
